@@ -26,13 +26,13 @@
 
 <br><br>
 
-- :school: I am a `Junior` at University of Granada.
+- :school: I am a `Student` at University of Granada.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer on various fields about computer science, articial intelligence and biomedical informatics.
 - :student: I’m currently learning `Computer Science`, `Software Engineering` and `Biomedical Informatics`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently studying a doble degree called `Informatic engineer` and `Bussiness Administration`.
-- :boom: You can contact with me through [MY GMAIL](ismengineer23@gmail.com).
+- :thinking: I’m currently studying a doble degree called `Informatic Engineer` and `Bussiness Administration`.
+- :boom: You can contact with me through `my gmail contact` that it is `ismengineer23@gmail.com`.
 <br>
 
 
