@@ -47,7 +47,7 @@
 
 
 
-## 🛠️ Mis Habilidades
+## 🛠️ My Skills
 
 ### Lenguajes de Programación
 
@@ -66,59 +66,22 @@
   </a> 
 </p>
 
-### Desarrollo Frontend
+### Software and tools
 
-<p align="center"> 
-  &emsp; 
-  <!-- Agrega tus habilidades de desarrollo frontend aquí -->
-</p>
+### Operative System
 
-### Herramientas y Software
+### Data Struct and Algorithms
 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <!-- Agrega las herramientas relacionadas con C++, C, Bash y otros temas -->
-</p>
-
-### Sistemas Operativos
-
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <!-- Agrega los sistemas operativos relevantes para arquitectura de computadoras -->
-</p>
-
-### Estructuras de Datos y Algoritmos
-
-<p align="center">
-  &emsp;
-    <!-- Agrega tus conocimientos específicos sobre estructuras de datos y algoritmos -->
-</p>
-
-### Economía y Administración
-
-<p align="center">
-  &emsp;
-    <!-- Agrega conocimientos específicos de economía y administración -->
-</p>
+### Administration and Economy
 
 ### Marketing
 
-<p align="center">
-  &emsp;
-    <!-- Agrega conocimientos específicos de marketing -->
-</p>
+### Computer Architecture
 
----
-
-<!-- Agrega otras secciones o elimina secciones según sea necesario -->
 
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/Ismael-Sallami/Ismael-Sallami/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
