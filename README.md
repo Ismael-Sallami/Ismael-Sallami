@@ -70,5 +70,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/Ismael-Sallami/Ismael-Sallami/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src="https://github.com/Ismael-Sallami/Ismael-Sallami/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
 </p>
