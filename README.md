@@ -19,7 +19,7 @@
 - :student: I’m currently learning `Computer Science`, `Software Engineering` and `Biomedical Informatics`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently studying a doble degree called `Informatic Engineer` and `Bussiness Administration`.
-- :boom: You can contact with me through `my gmail contact` that it is `ismengineer23@gmail.com`.
+- :boom: You can contact with me through `my gmail contact` that it is `ism350zsallami@gmail.com`.
 <br>
 
 
@@ -68,7 +68,10 @@
 
 	
 ## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src="https://github.com/Ismael-Sallami/Ismael-Sallami/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
+
+<p align="center">
+  <a href="https://github.com/Ismael-Sallami">
+    <img src="https://github.com/Ismael-Sallami/Ismael-Sallami/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
+  </a>
 </p>
+
