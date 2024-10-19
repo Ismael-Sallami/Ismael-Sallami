@@ -15,10 +15,10 @@
 
 - :school: I am a `Student` at University of Granada.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer on various fields about computer science, articial intelligence and biomedical informatics.
+- :computer: I am a competitive programmer on various fields about computer science, articial intelligence and biomedical science.
 - :student: I’m currently learning `Computer Science`, `Software Engineering` and `Biomedical Informatics`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently studying a doble degree called `Informatic Engineer` and `Bussiness Administration`.
+- :thinking: I’m currently studying a doble degree called `Computer Science` and `Bussiness Administration`.
 - :boom: You can contact with me through `my gmail contact` that it is `ism350zsallami@gmail.com`.
 <br>
 
