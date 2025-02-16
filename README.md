@@ -35,33 +35,103 @@
 
 ## 🛠️ My Skills
 
-### Programming Language
+### Programming Languages
 
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=flat&logo=c&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.python.org/" target="_blank"> 
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2300A8E8.svg?style=flat&logo=python&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.ruby-lang.org/en/" target="_blank"> 
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby%20-%23181717.svg?style=flat&logo=ruby&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.java.com/en/" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java%20-%231572B6.svg?style=flat&logo=java&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/html/" target="_blank"> 
+    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat&logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?style=flat&logo=javascript&logoColor=white">
+  </a>
+</p>
+
+---
+
+### Software and Tools
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank"> 
+    <img alt="Windows" src="https://img.shields.io/badge/Windows%20-%2317a2b8.svg?style=flat&logo=windows&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img alt="Linux" src="https://img.shields.io/badge/Linux%20-%23000000.svg?style=flat&logo=linux&logoColor=white">
   </a> 
 </p>
 
-### Software and tools
+---
 
-### Operative System
+### Operating Systems
 
-### Data Struct and Algorithms
+- **Windows** - Full experience with Windows 10/11.
+- **Linux** - Proficient in Ubuntu, Fedora, and other distributions.
+- **macOS** - Basic usage and experience.
+
+---
+
+### Data Structures and Algorithms
+
+- **Problem-solving:** Strong in algorithm design and data structure optimization.
+- **Tools:** Solved problems using competitive programming platforms like Codeforces, LeetCode, and HackerRank.
+
+---
 
 ### Administration and Economy
 
+- **Project Management:** Agile methodologies (Scrum, Kanban).
+- **Finance Management:** Budgeting and financial planning tools.
+- **Software:** Familiar with accounting and financial software (QuickBooks, Xero).
+
+---
+
 ### Marketing
 
+- **Digital Marketing:** SEO, content creation, and social media management.
+- **Email Marketing:** Experience with MailChimp, HubSpot.
+- **Campaign Analytics:** Proficient in Google Analytics and SEMrush.
+
+---
+
 ### Computer Architecture
+
+- **Understanding of architecture fundamentals:** CPU, memory hierarchy, caches, buses, etc.
+- **Experience with hardware-level programming** and optimizations.
+- **Familiar with assembly languages** and low-level optimization techniques.
+
+---
+
+
 
 
