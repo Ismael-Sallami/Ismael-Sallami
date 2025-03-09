@@ -132,6 +132,13 @@
 
 ---
 
+### Other Sciences
+
+- **Medicine & Cancer Research:** Knowledge in biomedical sciences, oncology, and medical informatics.  
+- **Mathematics:** Strong foundation in calculus, linear algebra, probability, and statistics.  
+- **Other Sciences:** Passion for interdisciplinary studies, including physics, chemistry, and data science.  
+
+
 
 
 
