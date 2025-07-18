@@ -74,7 +74,7 @@
 <div align="left">
   <ul>
     <li>
-      <a href="https://linkedin.com/in/ismael-sallami-moreno" target="_blank">
+    <a href="https://es.linkedin.com/in/ismael-sallami-moreno-2257072b9" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Ismael%20Sallami%20Moreno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
     </li>
