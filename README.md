@@ -1,78 +1,93 @@
+<h1 align="center"><b>Hello, I'm Ismael Sallami</b></h1>
 
-
-# Ismael Sallami Moreno - Personal Portfolio
-
-## Welcome! 👋
-
-This is the repository for my personal website, a place where I showcase my projects, skills, and passions. Built with a focus on clean design and user experience, it serves as a central hub for anyone looking to learn more about my work and aspirations.
-
----
-
-## About Me 🚀
-
-I'm Ismael Sallami Moreno, a dedicated student pursuing a **double degree in Computer Engineering and Business Administration** at the University of Granada. My journey is driven by a deep fascination with programming, web development, and crafting applications that genuinely improve people's lives. Beyond the code, I'm equally passionate about the intricate world of investments and the forces that shape financial landscapes.
-
-My ambition extends to contributing to impactful projects, particularly those related to **cancer research**, as well as other groundbreaking fields at the intersection of **physics, mathematics, and computer science**. I thrive on new challenges and am constantly seeking opportunities to learn and grow, both professionally and personally.
-
-Currently, I'm particularly interested in:
-* **Leveraging Artificial Intelligence in the medical field:** I believe AI holds immense potential to revolutionize healthcare, leading to more accurate diagnoses, personalized treatments, and efficient resource management. My goal is to apply my computer science knowledge to develop innovative solutions that enhance people's quality of life.
-* **Investments and wealth management:** I'm captivated by how technology can bring transparency and efficiency to this domain.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=1E90FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+and+Business+Administration">
+  </a>
+</p>
 
 ---
 
-## Projects 💡
+## 🧑‍💻 About Me
 
-This section highlights a selection of my most notable projects, each reflecting my passion for programming and commitment to excellence.
+<img align="right" src="./ismael-sallami.png" width="100px" alt="About Me Illustration">
 
-### Website with content from the Double Degree in Computer Engineering + Business Administration
-
-* **Type:** Web
-* **Description:** This project is a website dedicated to sharing valuable content related to my double degree in Computer Engineering and Business Administration. It serves as a personal knowledge hub and resource for others interested in these fields.
-* **Live Link:** [https://elblogdeismael.github.io/](https://elblogdeismael.github.io/)
-* **And you can found others projects...**
+- 💼 Dual degree student in **Computer Science** and **Business Administration**
+- 🌐 Personal website: [ismael-sallami.github.io](https://ismael-sallami.github.io/#home)
+- 📄 Currently open to internships and job opportunities — [View my resume](https://ismael-sallami.github.io/docs/CV.pdf)
 
 ---
 
-## Skills 💻
+## 🛠️ Skills
 
-I'm committed to continuous learning and honing my abilities. Below are some of the technical and soft skills I've acquired, which allow me to tackle complex projects and collaborate effectively in multidisciplinary teams. I recognize there's always more to learn, and I'm eager to expand my expertise.
+### Languages
 
-### Programming Languages & Technologies:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-* **HTML:** 95%
-* **CSS:** 70%
-* **JavaScript:** 70%
-* **SQL:** 80%
-* **C++:** 100%
-* **Python:** 85%
-* **Grafana:** 70%
-* **Prometheus:** 65%
-* **YAML:** 80%
-* **Markdown:** 90%
-* **LaTeX:** 90%
-* **Ruby:** 60%
-* **Java:** 70%
-* **And more...**
+### Front-End Development
 
-### Language Proficiency:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-* **English:** C1 (85%)
+### Monitoring & Visualization
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### Cloud Hosting
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7?style=for-the-badge&logo=github&logoColor=white)
+
+### Tools & Software
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Others
+
+![Terminal](https://img.shields.io/badge/Terminal-0D1117?style=for-the-badge&logo=gnubash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <a href="https://github.com/ismael-sallami/">
+    <img src="https://github-readme-stats.vercel.app/api?username=ismael-sallami&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=007acc&icon_color=2c3e50&text_color=ffffff&bg_color=0D1117" width="450">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismael-sallami&layout=compact&title_color=007acc&text_color=ffffff&bg_color=0D1117" width="375">
+  </a>
+</div>
 
 ---
 
-## Contact Me ✉️
+## 📬 Let's Connect
 
-Have a question, want to report an error, or simply wish to connect? Feel free to reach out using the contact form on my website, and I'll get back to you as soon as possible.
-
-**Email:** ismEngineer23@gmail.com
+<div align="left">
+  <ul>
+    <li>
+      <a href="https://linkedin.com/in/ismael-sallami-moreno" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Ismael%20Sallami%20Moreno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+    </li>
+    <li>
+      <a href="mailto:ismEngineer23@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-ismEngineer23@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+    </li>
+  </ul>
+</div>
 
 ---
 
-## License 📄
-
-&copy; 2025 Ismael Sallami Moreno. All rights reserved.
-
-* [Terms and Conditions](https://www.termsfeed.com/live/83259c50-7f6f-4565-b0d8-b43deaf7e92c)
-* [Privacy Policy](https://www.freeprivacypolicy.com/live/b5f07469-9f8f-4e3e-be2e-9d2f9977cad4)
-
----
+<div align="center">
+  <sub>Credit: <a href="https://ismael-sallami.github.io/#home">Ismael Sallami</a></sub>
+</div>
