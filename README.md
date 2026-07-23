@@ -165,12 +165,12 @@ languages: Spanish (native) · English (C1, studied in Cork, Ireland)
 ## &nbsp;&nbsp;GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ismael-Sallami&include_all_commits=true&count_private=true&show_icons=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0D1117&hide_border=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ismael-Sallami&layout=compact&langs_count=8&title_color=1E90FF&text_color=c9d1d9&bg_color=0D1117&hide_border=true">
+  <img height="195" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats">
+  <img height="195" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most-used languages">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismael-Sallami&theme=transparent&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=c9d1d9&dates=8b949e&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=Ismael-Sallami&theme=transparent&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="Contribution streak">
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ismael-Sallami&bg_color=0D1117&color=1E90FF&line=1E90FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%">
