@@ -165,8 +165,8 @@ languages: Spanish (native) · English (C1, studied in Cork, Ireland)
 ## &nbsp;&nbsp;GitHub Stats
 
 <div align="center">
-  <img height="195" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats">
   <img height="195" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most-used languages">
+  <img height="195" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time">
 </div>
 
 <div align="center">
